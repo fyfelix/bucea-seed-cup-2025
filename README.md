@@ -12,12 +12,9 @@
     * `worlds/world1.wbt`：比赛地图。
     * `controllers/demo_controller/`：官方提供的基础示例代码，演示了基本的电机调用。
 
-* **`fanyuo_controller/`**
+* **`fanyu_controller/`**
     * **赛后参考代码**：比赛结束后开源的完整参考方案。
     * 包含视觉处理与 PID 运动控制逻辑，仅供赛后学习与复盘使用。
-
-* **`python-3.8.5-amd64.exe`**
-    * 推荐使用的 Python 安装包。
 
 ## 🛠️ 环境配置要求
 
